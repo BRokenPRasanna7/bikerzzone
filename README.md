@@ -1,4 +1,4 @@
-# sec_c_sec_c_prasanna.mohanram__corejava_project_2
+# prasanna.mohanram__corejava_project
 
 # MILESTONE 1
 ## ** BIKE MODULE**
